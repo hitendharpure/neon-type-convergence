@@ -1,0 +1,6 @@
+{
+  "name": "Swarm Node 07",
+  "description": "A WebGL/Three.js cinematic experience utilizing a custom Float32Array physics engine optimized for 120 FPS. The particle swarm dynamically converges into Node 7 with critically damped precision and interactive lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
